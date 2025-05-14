@@ -17,7 +17,7 @@ BLM4522 Ağ Tabanlı Paralel Dağıtım Sistemleri Dersi Proje Videoları
 [![Video 5](https://img.youtube.com/vi/8HwSx0BY07M/0.jpg)](https://www.youtube.com/watch?v=8HwSx0BY07M)
 
 ## Proje 6
-[![Video 6](https://img.youtube.com/vi/X8hO_DkBvoQ/0.jpg)](https://www.youtube.com/watch?v=X8hO_DkBvoQ)
+[![Video 6](https://img.youtube.com/vi/quhWEdQHT1Y/0.jpg)](https://www.youtube.com/watch?v=quhWEdQHT1Y)
 
 ## Proje 7
 [![Video 7](https://img.youtube.com/vi/TZ0X3k9BjWk/0.jpg)](https://www.youtube.com/watch?v=TZ0X3k9BjWk)
